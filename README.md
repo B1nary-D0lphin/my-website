@@ -1,7 +1,3 @@
 # My Website
 
-Making a new branch
-
-Merging branch from GitHub locally
-
-Updated locally
+Updates made on master on GitHub before rebase

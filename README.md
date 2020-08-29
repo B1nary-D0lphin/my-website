@@ -1,3 +1,3 @@
-# my-website
+# My Website
 
-Updating read me
+Making a new branch
